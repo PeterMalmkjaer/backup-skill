@@ -21,8 +21,8 @@ A backup is only useful if you can **find it**, **understand it**, and **restore
 
 ## License
 
-MIT — Peter Malmkjær, CBS, 2026
-DUAL LICENSE — Content Analysis Skill for Claude Cowork
+Peter Malmkjær, CBS, 2026
+DUAL LICENSE — backup Skill for Claude Cowork
 =======================================================
 
 Copyright (c) 2026 Peter Malmkjaer
@@ -52,7 +52,7 @@ purposes, subject to the following conditions:
 
 2. COMMERCIAL LICENSE (Paid)
 ----------------------------
-Any use of this Software for commercial purposes — including but
+Any use of this Software for commercial purposes, including but
 not limited to integration into paid products or services, use in
 commercial consulting, corporate training, resale, sublicensing,
 or distribution on paid marketplaces — requires a separate
