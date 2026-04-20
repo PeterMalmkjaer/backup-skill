@@ -1,9 +1,15 @@
 ---
 name: backup
+version: 2026-04-20
 description: Helps create and manage backups so you can safely return to any previous point in a project. Use this skill when the user mentions backup, restore, checkpoint, rollback, undo, safety copy, versioning, or "I want to be able to go back to". Also use when starting a risky operation like major refactoring, bulk changes, deleting files, or restructuring a project. The skill works for any file-based project — code, LaTeX, documents, data pipelines, or research.
 ---
 
 # Backup — Safe Checkpoints for Any Project
+
+**Skill version: 2026-04-20**
+> At the start of every session Claude must report this version explicitly:
+> "backup-skill loaded — version 2026-04-20"
+> If the version you see differs from what you expect, stop and verify before proceeding.
 
 A skill for creating reliable backups so you can always return to a known good state.
 Principle: **A backup is only useful if you can find it, understand it, and restore from it.**
